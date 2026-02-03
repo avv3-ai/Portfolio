@@ -4,7 +4,7 @@
 		$email=$_POST['email'];
 		$comment=$_POST['comment'];
 
-		$to='arunv3ve@mail.com'; // Receiver Email ID, Replace with your email ID
+		$to='arunv3ve@gmail.com'; // Receiver Email ID, Replace with your email ID
 		$subject='Form Submission';
 		$message="Name :".$name."\n"."Wrote the following :"."\n\n".$comment;
 		$headers="From: ".$email;
