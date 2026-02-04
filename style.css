@@ -141,6 +141,10 @@ footer {
 	background: rgba(0, 0, 0);
 	color: white;
 	}
+	.fa-whatsapp {
+	background: rgba(0, 0, 0);
+	color: white;
+	}
 	.form textarea{
 		max-width: 600px;
 	}
